@@ -1,0 +1,902 @@
+[
+  {
+    "id": "624d706c4754026c8eedda8a",
+    "index": 0,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 2,
+    "author": "Ware Mullins",
+    "name": "Schoolio",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2022-01-02",
+        "to": "2020-11-29",
+        "expected": "2020-01-19",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c7fedba1089717da5",
+    "index": 1,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 5,
+    "author": "Spencer Dillon",
+    "name": "Callflex",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2022-03-07",
+        "to": "2020-10-22",
+        "expected": "2020-02-23",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c46ace2c3fa61fa89",
+    "index": 2,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 2,
+    "author": "Flores Ray",
+    "name": "Xerex",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-05-29",
+        "to": "2021-09-30",
+        "expected": "2021-12-14",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706ce75386f46861067e",
+    "index": 3,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 5,
+    "author": "Benton Beach",
+    "name": "Apexia",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-08-06",
+        "to": "2020-04-15",
+        "expected": "2021-06-17",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c6bee880e61432e6f",
+    "index": 4,
+    "issued": false,
+    "topic": "Chemistry",
+    "copies": 8,
+    "author": "Shields Byrd",
+    "name": "Izzby",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-12-03",
+        "to": "2022-01-02",
+        "expected": "2021-03-22",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706caa6c402be7387ebd",
+    "index": 5,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 3,
+    "author": "Cristina Rollins",
+    "name": "Combot",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-10-25",
+        "to": "2020-02-19",
+        "expected": "2022-01-26",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c5864f7cc449ae12b",
+    "index": 6,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 2,
+    "author": "Gonzalez Middleton",
+    "name": "Candecor",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-07-16",
+        "to": "2022-01-14",
+        "expected": "2021-06-21",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c015b4e196b99b398",
+    "index": 7,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 4,
+    "author": "Zamora Hayden",
+    "name": "Mantrix",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-02-16",
+        "to": "2022-01-22",
+        "expected": "2020-12-30",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cc2b260cfa02e9a50",
+    "index": 8,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 7,
+    "author": "Russo Galloway",
+    "name": "Limage",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-09-19",
+        "to": "2020-11-12",
+        "expected": "2020-02-28",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c7f5a95dd1b331b37",
+    "index": 9,
+    "issued": false,
+    "topic": "Chemistry",
+    "copies": 4,
+    "author": "Kerri Kane",
+    "name": "Lumbrex",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-02-22",
+        "to": "2020-09-29",
+        "expected": "2021-11-04",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c27e450a4d76cdfd2",
+    "index": 10,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 1,
+    "author": "Decker Mueller",
+    "name": "Euron",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-03-16",
+        "to": "2021-04-26",
+        "expected": "2021-05-14",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c5ea7b8047f04ada4",
+    "index": 11,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 2,
+    "author": "Helene Todd",
+    "name": "Concility",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-10-17",
+        "to": "2020-11-17",
+        "expected": "2021-02-14",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cb16b1ae415b6542f",
+    "index": 12,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 1,
+    "author": "Tricia Parker",
+    "name": "Motovate",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2022-03-09",
+        "to": "2020-10-26",
+        "expected": "2021-11-25",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c6b03f1f9cecd377a",
+    "index": 13,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 8,
+    "author": "Maura England",
+    "name": "Genmy",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-11-07",
+        "to": "2021-01-23",
+        "expected": "2020-12-29",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cd90c3c5bb8c9ba59",
+    "index": 14,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 9,
+    "author": "Tami Clayton",
+    "name": "Quantalia",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-08-12",
+        "to": "2021-02-06",
+        "expected": "2020-12-09",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c827ec589a7095f82",
+    "index": 15,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 9,
+    "author": "Mitzi Kemp",
+    "name": "Xixan",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-08-12",
+        "to": "2020-09-13",
+        "expected": "2021-08-06",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cfd4d0df6bea33c9e",
+    "index": 16,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 3,
+    "author": "Freda Pace",
+    "name": "Goko",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-04-06",
+        "to": "2021-12-20",
+        "expected": "2021-08-16",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c41147cb5a9a4566d",
+    "index": 17,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 4,
+    "author": "Rios Levy",
+    "name": "Enormo",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-10-18",
+        "to": "2020-11-04",
+        "expected": "2021-05-20",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cc292c4ac8ed5f416",
+    "index": 18,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 2,
+    "author": "Merritt Wagner",
+    "name": "Emoltra",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-04-05",
+        "to": "2020-07-14",
+        "expected": "2020-04-14",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c5d638b4ece23838d",
+    "index": 19,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 6,
+    "author": "Rutledge Summers",
+    "name": "Grok",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2022-01-24",
+        "to": "2020-10-03",
+        "expected": "2021-06-06",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c689d4dc01c88065d",
+    "index": 20,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 8,
+    "author": "Olson Chan",
+    "name": "Egypto",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-09-06",
+        "to": "2021-07-09",
+        "expected": "2021-11-25",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c7ebd0b3211adb962",
+    "index": 21,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 7,
+    "author": "Terry Mccoy",
+    "name": "Proflex",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-09-05",
+        "to": "2021-07-09",
+        "expected": "2020-04-13",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c7bfdc48781239452",
+    "index": 22,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 4,
+    "author": "Bowers Rogers",
+    "name": "Valpreal",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-10-01",
+        "to": "2020-02-05",
+        "expected": "2021-11-27",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c0fc0f073dd69f63b",
+    "index": 23,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 4,
+    "author": "Weiss Bennett",
+    "name": "Exozent",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-02-18",
+        "to": "2020-02-26",
+        "expected": "2021-09-22",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706ccc2bc65b2c670178",
+    "index": 24,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 8,
+    "author": "Ursula Nash",
+    "name": "Photobin",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-06-25",
+        "to": "2021-03-20",
+        "expected": "2021-06-25",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c6903b72469c508fb",
+    "index": 25,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 1,
+    "author": "Suzanne Gibbs",
+    "name": "Zillar",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-11-09",
+        "to": "2020-04-03",
+        "expected": "2021-04-01",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c6737fc05609d0d75",
+    "index": 26,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 5,
+    "author": "Ramsey Dominguez",
+    "name": "Mixers",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-03-03",
+        "to": "2022-02-23",
+        "expected": "2021-11-29",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cc25dbfec32b67fb7",
+    "index": 27,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 8,
+    "author": "Adriana Key",
+    "name": "Infotrips",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-03-20",
+        "to": "2020-12-27",
+        "expected": "2021-05-20",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cd42f45f049f25b9a",
+    "index": 28,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 5,
+    "author": "Lorrie Cochran",
+    "name": "Cogentry",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-12-31",
+        "to": "2020-05-24",
+        "expected": "2021-09-24",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c9d5f864699877f48",
+    "index": 29,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 2,
+    "author": "Nunez Luna",
+    "name": "Zillacom",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-08-30",
+        "to": "2020-08-21",
+        "expected": "2022-01-18",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c5a10c1a1b1541554",
+    "index": 30,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 6,
+    "author": "Stella Mcbride",
+    "name": "Harmoney",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-01-27",
+        "to": "2020-11-17",
+        "expected": "2020-04-11",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c8827a499e8c91918",
+    "index": 31,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 1,
+    "author": "Mueller Soto",
+    "name": "Adornica",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-03-08",
+        "to": "2021-02-09",
+        "expected": "2021-07-22",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cd2e26fbfc9fc2f1c",
+    "index": 32,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 8,
+    "author": "Strong Barry",
+    "name": "Renovize",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-04-17",
+        "to": "2020-06-30",
+        "expected": "2021-12-24",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c653a5aab66b6cba9",
+    "index": 33,
+    "issued": false,
+    "topic": "Maths",
+    "copies": 6,
+    "author": "Jacqueline Sweeney",
+    "name": "Sunclipse",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-01-29",
+        "to": "2021-03-22",
+        "expected": "2021-03-07",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706ce689a1b4d6118e74",
+    "index": 34,
+    "issued": false,
+    "topic": "Chemistry",
+    "copies": 3,
+    "author": "Jennings Berger",
+    "name": "Moreganic",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-09-13",
+        "to": "2021-03-04",
+        "expected": "2020-10-07",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c20472a099e26e017",
+    "index": 35,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 9,
+    "author": "Stacy Buchanan",
+    "name": "Netility",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-12-25",
+        "to": "2020-03-17",
+        "expected": "2021-01-03",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c68f0d6d19e8edf61",
+    "index": 36,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 7,
+    "author": "Hall Taylor",
+    "name": "Xeronk",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-09-14",
+        "to": "2021-06-28",
+        "expected": "2021-02-04",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c5436b82ea73e0270",
+    "index": 37,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 8,
+    "author": "Jacquelyn Mcclure",
+    "name": "Exoteric",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-08-15",
+        "to": "2021-09-01",
+        "expected": "2020-08-03",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cea9e609a0b1c9964",
+    "index": 38,
+    "issued": false,
+    "topic": "Chemistry",
+    "copies": 3,
+    "author": "Effie Livingston",
+    "name": "Ecrater",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-01-23",
+        "to": "2020-03-20",
+        "expected": "2020-05-28",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c8ea4648785361e0d",
+    "index": 39,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 9,
+    "author": "Grant Long",
+    "name": "Corecom",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-02-28",
+        "to": "2022-03-14",
+        "expected": "2020-05-05",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c0ab333ba01dace10",
+    "index": 40,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 9,
+    "author": "Deborah Shepherd",
+    "name": "Biospan",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-11-28",
+        "to": "2021-03-27",
+        "expected": "2021-05-07",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c764f2b444f5d8921",
+    "index": 41,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 3,
+    "author": "Cara Miller",
+    "name": "Zinca",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2022-01-15",
+        "to": "2020-04-16",
+        "expected": "2020-05-06",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cac8e5f8e142892cb",
+    "index": 42,
+    "issued": true,
+    "topic": "Chemistry",
+    "copies": 7,
+    "author": "Etta Rocha",
+    "name": "Imperium",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-05-19",
+        "to": "2022-01-31",
+        "expected": "2020-03-23",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c7f9fba0a9e6bacb3",
+    "index": 43,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 2,
+    "author": "Copeland Pittman",
+    "name": "Ohmnet",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-03-30",
+        "to": "2020-12-25",
+        "expected": "2022-02-06",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cee365bca1a7fafe3",
+    "index": 44,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 3,
+    "author": "Georgina Townsend",
+    "name": "Silodyne",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-01-17",
+        "to": "2021-12-02",
+        "expected": "2020-11-19",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706c06e3526bbc778ced",
+    "index": 45,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 4,
+    "author": "Kennedy Langley",
+    "name": "Icology",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2021-11-04",
+        "to": "2020-08-23",
+        "expected": "2020-06-22",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cb2b93cb740f64a90",
+    "index": 46,
+    "issued": true,
+    "topic": "Maths",
+    "copies": 7,
+    "author": "Margo Wynn",
+    "name": "Comcubine",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-09-14",
+        "to": "2021-01-02",
+        "expected": "2020-08-21",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706ca4a34166e9415245",
+    "index": 47,
+    "issued": false,
+    "topic": "Physics",
+    "copies": 1,
+    "author": "Berta Day",
+    "name": "Dognost",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-05-24",
+        "to": "2020-06-17",
+        "expected": "2022-03-08",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cf2807562fe872391",
+    "index": 48,
+    "issued": false,
+    "topic": "Chemistry",
+    "copies": 7,
+    "author": "Carr Franks",
+    "name": "Endipin",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-07-15",
+        "to": "2021-06-27",
+        "expected": "2020-09-29",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "624d706cd25d53a3e9703120",
+    "index": 49,
+    "issued": true,
+    "topic": "Physics",
+    "copies": 9,
+    "author": "West Wolfe",
+    "name": "Stralum",
+    "history": [
+      {
+        "customerId": 11091700,
+        "from": "2020-07-13",
+        "to": "2021-12-10",
+        "expected": "2021-01-27",
+        "amount": 3
+      }
+    ]
+  }
+]

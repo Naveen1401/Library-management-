@@ -1,0 +1,858 @@
+[
+  {
+    "id": "625fc9eedfa4963822c3b249",
+    "index": 0,
+    "rollNumber": 1904100,
+    "branch": "CSE",
+    "name": "Aquasseur",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 88
+      },
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 88
+      }
+    ]
+  },
+  {
+    "id": "625fc9eeecd046c115963d64",
+    "index": 1,
+    "rollNumber": 1904101,
+    "branch": "MAC",
+    "name": "Opticall",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee878ad2d040584342",
+    "index": 2,
+    "rollNumber": 1904102,
+    "branch": "CSE",
+    "name": "Omnigog",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eeb397ebd91a320e83",
+    "index": 3,
+    "rollNumber": 1904103,
+    "branch": "EE",
+    "name": "Exozent",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee5a57d0a2f7ad3034",
+    "index": 4,
+    "rollNumber": 1904104,
+    "branch": "CSE",
+    "name": "Quilk",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eebcf9281349555a67",
+    "index": 5,
+    "rollNumber": 1904105,
+    "branch": "CSE",
+    "name": "Assistix",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee1ab1b2c7866e0bf5",
+    "index": 6,
+    "rollNumber": 1904106,
+    "branch": "CSE",
+    "name": "Ziggles",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eee0ca6b098f381fb5",
+    "index": 7,
+    "rollNumber": 1904107,
+    "branch": "MAC",
+    "name": "Zentime",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee6b395f278b38727c",
+    "index": 8,
+    "rollNumber": 1904108,
+    "branch": "CSE",
+    "name": "Retrack",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee56bca92725661a84",
+    "index": 9,
+    "rollNumber": 1904109,
+    "branch": "MAC",
+    "name": "Eclipto",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee0b2285786dd25324",
+    "index": 10,
+    "rollNumber": 1904110,
+    "branch": "MAC",
+    "name": "Opticom",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eee09c2548781857cd",
+    "index": 11,
+    "rollNumber": 1904111,
+    "branch": "EE",
+    "name": "Essensia",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee0d0563b6565d929b",
+    "index": 12,
+    "rollNumber": 1904112,
+    "branch": "EE",
+    "name": "Tasmania",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eec516edf0339ffd21",
+    "index": 13,
+    "rollNumber": 1904113,
+    "branch": "EE",
+    "name": "Goko",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee0406b3111d89b0a4",
+    "index": 14,
+    "rollNumber": 1904114,
+    "branch": "MAC",
+    "name": "Tsunamia",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee664126b2f9c3b032",
+    "index": 15,
+    "rollNumber": 1904115,
+    "branch": "MAC",
+    "name": "Rockyard",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee4cdc561caee2795e",
+    "index": 16,
+    "rollNumber": 1904116,
+    "branch": "EE",
+    "name": "Neptide",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee335dd15014862cdb",
+    "index": 17,
+    "rollNumber": 1904117,
+    "branch": "MAC",
+    "name": "Apex",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee2139df31b4767915",
+    "index": 18,
+    "rollNumber": 1904118,
+    "branch": "MAC",
+    "name": "Keengen",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee31f535c7a021896c",
+    "index": 19,
+    "rollNumber": 1904119,
+    "branch": "MAC",
+    "name": "Quarex",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee559ae99aa4c1d09e",
+    "index": 20,
+    "rollNumber": 1904120,
+    "branch": "EE",
+    "name": "Pathways",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eee2105a1b1cf27798",
+    "index": 21,
+    "rollNumber": 1904121,
+    "branch": "CSE",
+    "name": "Xanide",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee4d68ec50f00a9e92",
+    "index": 22,
+    "rollNumber": 1904122,
+    "branch": "EE",
+    "name": "Zounds",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eed10b0a9a05fe9d3f",
+    "index": 23,
+    "rollNumber": 1904123,
+    "branch": "EE",
+    "name": "Petigems",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eedc8bf7c54dec8e40",
+    "index": 24,
+    "rollNumber": 1904124,
+    "branch": "CSE",
+    "name": "Radiantix",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eecaf3fe86495cb48a",
+    "index": 25,
+    "rollNumber": 1904125,
+    "branch": "EE",
+    "name": "Golistic",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee41ab82655fab9560",
+    "index": 26,
+    "rollNumber": 1904126,
+    "branch": "MAC",
+    "name": "Zytrac",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee151d032dd5ea079c",
+    "index": 27,
+    "rollNumber": 1904127,
+    "branch": "MAC",
+    "name": "Songbird",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee041f0cf23f270437",
+    "index": 28,
+    "rollNumber": 1904128,
+    "branch": "EE",
+    "name": "Protodyne",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee3c264e083c2379ef",
+    "index": 29,
+    "rollNumber": 1904129,
+    "branch": "EE",
+    "name": "Intradisk",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee73a502670cce4c0a",
+    "index": 30,
+    "rollNumber": 1904130,
+    "branch": "EE",
+    "name": "Viasia",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eea303bca554674fe7",
+    "index": 31,
+    "rollNumber": 1904131,
+    "branch": "MAC",
+    "name": "Kongene",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee8f84e446e82c4861",
+    "index": 32,
+    "rollNumber": 1904132,
+    "branch": "MAC",
+    "name": "Melbacor",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eeb6ae0e4b16bbd146",
+    "index": 33,
+    "rollNumber": 1904133,
+    "branch": "MAC",
+    "name": "Jetsilk",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee289857e68782f71e",
+    "index": 34,
+    "rollNumber": 1904134,
+    "branch": "MAC",
+    "name": "Silodyne",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee84518840b7a42f12",
+    "index": 35,
+    "rollNumber": 1904135,
+    "branch": "CSE",
+    "name": "Gronk",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee2aefb2b284402bce",
+    "index": 36,
+    "rollNumber": 1904136,
+    "branch": "CSE",
+    "name": "Datacator",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee60e5d00f30d7b50e",
+    "index": 37,
+    "rollNumber": 1904137,
+    "branch": "MAC",
+    "name": "Insource",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee8c705f70949f3177",
+    "index": 38,
+    "rollNumber": 1904138,
+    "branch": "MAC",
+    "name": "Isologica",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee6c974c4419b2e169",
+    "index": 39,
+    "rollNumber": 1904139,
+    "branch": "CSE",
+    "name": "Corepan",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee1c7b5a39f34062e5",
+    "index": 40,
+    "rollNumber": 1904140,
+    "branch": "CSE",
+    "name": "Diginetic",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee59d82f01bc444cee",
+    "index": 41,
+    "rollNumber": 1904141,
+    "branch": "EE",
+    "name": "Hotcakes",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eedd95397fa0dc431c",
+    "index": 42,
+    "rollNumber": 1904142,
+    "branch": "MAC",
+    "name": "Xsports",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eed0956951e3b5739c",
+    "index": 43,
+    "rollNumber": 1904143,
+    "branch": "MAC",
+    "name": "Neurocell",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eed84d4c7243ea579e",
+    "index": 44,
+    "rollNumber": 1904144,
+    "branch": "EE",
+    "name": "Skinserve",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee34081028429b9c8c",
+    "index": 45,
+    "rollNumber": 1904145,
+    "branch": "MAC",
+    "name": "Telequiet",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee853160d1cd9e5870",
+    "index": 46,
+    "rollNumber": 1904146,
+    "branch": "MAC",
+    "name": "Malathion",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee82f7ddfe817214bd",
+    "index": 47,
+    "rollNumber": 1904147,
+    "branch": "MAC",
+    "name": "Limozen",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9eea4bf34a6aca626f1",
+    "index": 48,
+    "rollNumber": 1904148,
+    "branch": "MAC",
+    "name": "Oceanica",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  },
+  {
+    "id": "625fc9ee0fc5916debaee4aa",
+    "index": 49,
+    "rollNumber": 1904149,
+    "branch": "MAC",
+    "name": "Ontagene",
+    "email": "naveen.19041@gmial.com",
+    "phoneNumber": "7027262991",
+    "issuedBooks": [
+      {
+        "book": "Embedded system by Lewn show",
+        "from": "2022-02-12",
+        "to": "2022-02-01",
+        "fine" : 90
+      }
+    ]
+  }
+]

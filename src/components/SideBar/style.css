@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    font-size: 1.4rem;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: flex-start;
+    color: white;
+    margin: 1.4rem;
+}
+
+.logo span{
+    margin-top: 0.8rem;
+}
+
+.logo img{
+    height: 3rem;
+}
+
+.sideBar-options{
+    color: #ffffff40;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.4rem;
+    /* transition: 1000ms ease; */
+}
+
+.sideBar-options:hover{
+    background: linear-gradient(to right, #ffffff -200%, #ffffff00 100%);
+    border-left: #fc4549 4px solid;
+    color: #ffffff;
+}
+
+.sideBar-options svg{
+    height: 1.2rem;
+    margin-right: 0.5rem;
+}   
+.sidebarDiv{
+    position: fixed;
+    width: 13rem;
+}

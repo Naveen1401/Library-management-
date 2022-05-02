@@ -1,0 +1,9 @@
+.addbookbtn{
+    float: right;
+    display: flex;
+    align-items: center;
+}
+.searchsection {
+    display: flex;
+    align-items: center
+}

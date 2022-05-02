@@ -1,0 +1,18 @@
+.addbookbtn_{
+    display: flex;
+    align-items: center;
+    border: 0;
+    background: #fc4549;
+    color: white;
+    padding: 4px 6px 4px 10px;
+    border-radius: 5px;
+}
+.addbookbtn_:hover{
+    background-color: #cf2b2e;
+    cursor: pointer;
+}
+
+.addbookbtn svg{
+    margin: 0;
+    color: white;   
+}
